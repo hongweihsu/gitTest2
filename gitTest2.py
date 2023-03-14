@@ -1,1 +1,2 @@
-pring('test begin')
+print('test begin')
+print('this is wrong push')
